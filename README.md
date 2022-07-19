@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aayushbisht17
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I don't know how to use this 🥲
+- 📫 thankyou..🌷
 
 <!---
 Aayushbisht17/Aayushbisht17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
